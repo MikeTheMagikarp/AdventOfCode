@@ -1,0 +1,8 @@
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCode1\obj\Debug\AdventOfCode1.csproj.AssemblyReference.cache
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCode1\obj\Debug\AdventOfCode1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCode1\obj\Debug\AdventOfCode1.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCode1\bin\Debug\AdventOfCode1.exe.config
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCode1\bin\Debug\AdventOfCode1.exe
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCode1\bin\Debug\AdventOfCode1.pdb
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCode1\obj\Debug\AdventOfCode1.exe
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCode1\obj\Debug\AdventOfCode1.pdb

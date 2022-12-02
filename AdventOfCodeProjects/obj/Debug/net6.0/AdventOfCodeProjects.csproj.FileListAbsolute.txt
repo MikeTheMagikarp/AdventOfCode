@@ -1,0 +1,12 @@
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCodeProjects\bin\Debug\net6.0\AdventOfCodeProjects.deps.json
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCodeProjects\bin\Debug\net6.0\AdventOfCodeProjects.dll
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCodeProjects\bin\Debug\net6.0\AdventOfCodeProjects.pdb
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCodeProjects\obj\Debug\net6.0\AdventOfCodeProjects.csproj.AssemblyReference.cache
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCodeProjects\obj\Debug\net6.0\AdventOfCodeProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCodeProjects\obj\Debug\net6.0\AdventOfCodeProjects.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCodeProjects\obj\Debug\net6.0\AdventOfCodeProjects.AssemblyInfo.cs
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCodeProjects\obj\Debug\net6.0\AdventOfCodeProjects.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCodeProjects\obj\Debug\net6.0\AdventOfCodeProjects.dll
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCodeProjects\obj\Debug\net6.0\refint\AdventOfCodeProjects.dll
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCodeProjects\obj\Debug\net6.0\AdventOfCodeProjects.pdb
+C:\Users\Mike\source\repos\AdventOfCodeProjects\AdventOfCodeProjects\obj\Debug\net6.0\ref\AdventOfCodeProjects.dll
